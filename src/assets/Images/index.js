@@ -1,0 +1,16 @@
+export default Images = {
+  background: require("./background.png"),
+  logo: require("./logo.png"),
+  basicIntersections: require("./basicIntersections.png"),
+  defensiveDriving: require("./defensiveDriving.png"),
+  gasBrake: require("./gasBrake.png"),
+  laneUse: require("./laneUse.png"),
+  calories: require("./calories.png"),
+  qrCode: require("./qr-code.png"),
+  bg: require("./bg.png"),
+  user: require("./user.png"),
+  portfolio: require("./portfolio.jpeg"),
+  subscription: require("./subscription.png"),
+  subscriptionBlue: require("./subscriptionblue.png"),
+  subscriptionGreen: require("./subscriptiongreen.png"),
+};

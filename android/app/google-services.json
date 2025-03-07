@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "206909306840",
+    "project_id": "goatzoo",
+    "storage_bucket": "goatzoo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206909306840:android:28e6e7afec400ddb58e4ad",
+        "android_client_info": {
+          "package_name": "com.appsnado.goatzoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206909306840-894f1t2t6ti539cmpco7s3sccehbkqlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsnado.goatzoo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "206909306840-jntinbo6c7uc5ami5cleq4tfl28knjrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjFjIX4bdSzqByVVbwnvUYPJ71pCbAgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206909306840-idn37piq0g21nuqqa2bc9fh2l5im71ed.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206909306840-ggo1tke1i3hni2ga46eh94alarmdjj9v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.goatzoo",
+                "app_store_id": "6446788250"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

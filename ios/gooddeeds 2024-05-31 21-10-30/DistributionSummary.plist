@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gooddeeds.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>10</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1DFA6DCA24850B358DA21200D31FBAE012E8D936</string>
+				<key>dateExpires</key>
+				<string>19/09/2024</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.12.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1DFA6DCA24850B358DA21200D31FBAE012E8D936</string>
+						<key>dateExpires</key>
+						<string>19/09/2024</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>D4XZ948AAU</string>
+						<key>name</key>
+						<string>GOOD DEEDS 4 U LLC</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.12.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>D4XZ948AAU.com.celectstudios.gooddeeds</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.applesignin</key>
+				<array>
+					<string>Default</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>D4XZ948AAU</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>gooddeeds.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>a57531f7-ef25-4bdc-9687-2bc513887e88</string>
+				<key>dateExpires</key>
+				<string>07/03/2025</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.celectstudios.gooddeeds</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>D4XZ948AAU</string>
+				<key>name</key>
+				<string>GOOD DEEDS 4 U LLC</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

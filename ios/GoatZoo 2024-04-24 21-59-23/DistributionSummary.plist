@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GoatZoo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>7</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>ADEFFE94421E273814A6941CA862A65DC551F898</string>
+				<key>dateExpires</key>
+				<string>28/08/2024</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>0.11.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>ADEFFE94421E273814A6941CA862A65DC551F898</string>
+						<key>dateExpires</key>
+						<string>28/08/2024</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>hermes.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>696PA32759</string>
+						<key>name</key>
+						<string>TECHNADO (PRIVATE) LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>0.11.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>696PA32759.com.appsnado.demo</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.applesignin</key>
+				<array>
+					<string>Default</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>696PA32759</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>GoatZoo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ccd5faa7-1bae-4219-82fc-6374ed418efa</string>
+				<key>dateExpires</key>
+				<string>25/03/2025</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.appsnado.demo</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>696PA32759</string>
+				<key>name</key>
+				<string>TECHNADO (PRIVATE) LIMITED</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
